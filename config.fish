@@ -5,3 +5,4 @@ set -g theme_display_date no
 set -g theme_display_cmd_duration no
 set -x XDG_CONFIG_HOME $HOME/.config
 set -x XDG_CACHE_HOME $HOME/.cache
+export LSCOLORS=cxfxcxdxbxegedabagacad
