@@ -2,3 +2,11 @@
 repo = 'itchyny/lightline.vim'
 repo = 'Shougo/denite.nvim'
 repo = 'Shougo/deoplete.nvim'
+repo = 'neoclide/coc.nvim'
+repo = 'scrooloose/nerdtree'
+on_ft = ['python']
+merged=0
+rev="release"
+hook_source = '''
+source ~/.config/nvim/plugins/coc.rc.vim
+'''
