@@ -1,9 +1,13 @@
 [[plugins]]
 repo = 'itchyny/lightline.vim'
+[[plugins]]
 repo = 'Shougo/denite.nvim'
+[[plugins]]
 repo = 'Shougo/deoplete.nvim'
-repo = 'neoclide/coc.nvim'
+[[plugins]]
 repo = 'scrooloose/nerdtree'
+[[plugins]]
+repo = 'neoclide/coc.nvim'
 on_ft = ['python']
 merged=0
 rev="release"
